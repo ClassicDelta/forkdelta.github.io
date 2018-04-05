@@ -1,12 +1,12 @@
 # ClassicDelta
-[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/MPvAfMa)
-[![Join us on Reddit](https://img.shields.io/badge/reddit-ForkDelta-red.svg)](https://www.reddit.com/r/ForkDelta/)
+[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/JqsD2)
+[![Join us on Reddit](https://img.shields.io/badge/reddit-ClassicDelta-red.svg)](https://www.reddit.com/r/ClassicDelta/)
 
 ClassicDelta is a decentralized Ethereum Token Exchange with the most ERC20 listings of any exchange.
 
 
 # What is ClassicDelta?
-ClassicDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team. Although ClassicDelta started as a fork of EtherDelta, considerable development time has been put towards a new token listing system, order book, API, and front-end UI all of which are at different stages of development and can be tracked on [GitHub](https://github.com/forkdelta/). 
+ClassicDelta currently acts as an open source, updated interface for EtherDelta's smart contract with an active and public development team. Although ClassicDelta started as a fork of EtherDelta, considerable development time has been put towards a new token listing system, order book, API, and front-end UI all of which are at different stages of development and can be tracked on [GitHub](https://github.com/ClassicDelta/). 
 
 
 # How does ClassicDelta Work?
