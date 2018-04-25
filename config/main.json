@@ -869,6 +869,7 @@
     { "addr": "0xee609fe292128cad03b786dbb9bc2634ccdbe7fc", "name": "POS", "decimals": 18 },
     { "addr": "0xee688d34c1cc02fc81b2f3f05c489e05d4c0b6ba", "name": "EM", "decimals": 1 },
     { "addr": "0xee9704a1d61aa2c1401e2303ac7e1f81c29ed860", "name": "CLASH", "decimals": 0 },
+    { "addr": "0xcd56d2ab02c33bda7b687375268f9d874cc34ca3", "name": "Pyc", "decimals": 18 },
     { "addr": "0xeeac3f8da16bb0485a4a11c5128b0518dac81448", "name": "TEU", "decimals": 18 },
     { "addr": "0xef2463099360a085f1f10b076ed72ef625497a06", "name": "SHP", "decimals": 18 },
     { "addr": "0xef25e54e1ae9bfd966b9b5cde6880e7a2323a957", "name": "SOCIAL", "decimals": 18 },
