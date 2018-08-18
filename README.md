@@ -14,7 +14,7 @@ EXDelta currently interfaces with EtherDelta's original smart contract (describe
 
 
 # What is the Roadmap for EXDelta?
-The EXDelta Roadmap is maintained at https://EXdelta.github.io/about/
+The EXDelta Roadmap is maintained at https://exdelta.github.io/about/
 
 
 # Contribute
